@@ -1,0 +1,4 @@
+1. uv venv
+2. uv init
+3. uv add (packages)
+4. uv run(filename)
